@@ -11,5 +11,8 @@ example:
  12th sep:
     Maulik: 
      "I learned about how to create component in react, i created component in our admin front end using it, and made the following progress so far :"
+
+     Dhyanesh:
+     "Test"
         
 ```
