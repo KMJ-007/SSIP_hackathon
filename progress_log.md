@@ -1,6 +1,10 @@
 # Progress log of the hackathon:
 
-
+```
+13th sep;
+```
+- Mohit:
+     >"I practiced some DSA, Learned some more JavaScript , and watched a [Podcast](https://www.youtube.com/watch?v=Ol_n4paZ0Ug&t=9s) on UI/UX development"
 
 ```
 12th sep;
