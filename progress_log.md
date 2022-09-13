@@ -12,3 +12,6 @@
 
 - Tanishqua:
      >"Learnt about UX Design and my role towards designing a more user-friendly interface!"
+
+- Maulik
+     >"Today i recall some concepts of JS and some basics of react js."
