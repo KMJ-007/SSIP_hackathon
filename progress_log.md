@@ -1,17 +1,7 @@
 # Progress log of the hackathon:
-```
-formate:
-Date:
-    name: "today i learned about xyz, and used it in our live project in this section"
-   - try to specify as much as possible 
-```
-example:
-```
 
- 12th sep:
-    Maulik: 
-     "I learned about how to create component in react, i created component in our admin front end using it, and made the following progress so far :"
 
+<<<<<<< HEAD
      Dhyanesh:
      "Test"
 
@@ -21,4 +11,19 @@ example:
     <img src="D:\adi\web2.png">
 
         
+=======
+
+>>>>>>> adc768c5c4898227a26710293be85d042396746f
 ```
+12th sep;
+```
+- Dhyanesh:
+     >"today i lerned how to host a local server using basic HTTP module,and launched my server for veryfirst time"
+
+<img src=".\Images\Dhyanesh\FirstServerHosting.png">
+
+- Tanishqua:
+     >"Learnt about UX Design and my role towards designing a more user-friendly interface!"
+
+- Maulik
+     >"Today i recall some concepts of JS and some basics of react js."
