@@ -7,7 +7,7 @@ Add your progress in progress_log.md file, save it.
 ```
 # Step 2:
 ```
-git add progress_log.md
+git add .
 
 git commit -m "added my today's progress"
 
