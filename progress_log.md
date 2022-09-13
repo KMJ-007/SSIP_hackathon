@@ -3,6 +3,9 @@
 ```
 13th sep;
 ```
+
+- Maulik
+     >"Today i recall some concepts of JS and some basics of react js."
 - Mohit:
      >"I practiced some DSA, Learned some more JavaScript , and watched a [Podcast](https://www.youtube.com/watch?v=Ol_n4paZ0Ug&t=9s) on UI/UX development"
 - Tirth:
@@ -20,5 +23,4 @@
 - Tanishqua:
      >"Learnt about UX Design and my role towards designing a more user-friendly interface!"
 
-- Maulik
-     >"Today i recall some concepts of JS and some basics of react js."
+
