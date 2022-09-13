@@ -11,7 +11,9 @@
 - Tirth:
      >"Learned how figma works and created chat panel in it."
      <img src="./Images/Tirth/Chat Panel.png">
-
+- Karan:
+     >"Created architecture of whole project and discussed it with dhyanesh:
+     <img src="./Images/Karan/whatsapp_gtu.png">
 ```
 12th sep;
 ```
