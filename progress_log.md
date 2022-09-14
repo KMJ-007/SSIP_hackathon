@@ -7,8 +7,8 @@
 
  13th sep:
     Aditi:
-    "Today i made the first admin panel design using ppt ."
-    <img src="D:\adi\web2.png">
+    "Today i made the first admin panel design using ppt knew some tools of figma."
+    <img src="C:\Users\satish\Git\SSIP_hackathon\Images\Aditi\web2.png">
 
         
 =======
@@ -27,3 +27,9 @@
 
 - Maulik
      >"Today i recall some concepts of JS and some basics of react js."
+
+14th Sep:
+
+- Aditi
+     > "Today i edited the admin panel using figma learn about more features."
+     <img src="C:\Users\satish\Git\SSIP_hackathon\Images\Aditi\web3.png">
