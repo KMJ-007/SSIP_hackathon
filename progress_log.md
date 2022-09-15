@@ -1,13 +1,11 @@
 # Progress log of the hackathon:
 ```
-14th sep;
-```
-
-- Dhyaensh
-     >    "Today I created server using express and learnt some concepts and functions of express library,
-          >1. leart about middlewarefunctions
-          >2. learnt how to render HTML with Static folders to include CSS and all other types of static files using middlewarefunctions";
-
+14th sep:
+ ```
+ - Aditi
+     >"Today i edited the admin panel using figma."
+     <img src="./Images/Aditi/web2.png">
+     <img src="./Images/Aditi/web3.png">
 ```
 13th sep;
 ```
@@ -33,4 +31,9 @@
 - Tanishqua:
      >"Learnt about UX Design and my role towards designing a more user-friendly interface!"
 
+<<<<<<< HEAD
+- Maulik
+     >"Today i recall some concepts of JS and some basics of react js."
+=======
+>>>>>>> ae0940ce7f578c23806cd571c29f85c8df7e841d
 
