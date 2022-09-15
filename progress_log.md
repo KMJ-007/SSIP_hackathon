@@ -1,6 +1,11 @@
 # Progress log of the hackathon:
-
-
+```
+14th sep:
+ ```
+ - Aditi
+     >"Today i edited the admin panel using figma."
+     <img src="./Images/Aditi/web2.png">
+     <img src="./Images/Aditi/web3.png">
 ```
 13th sep;
 ```
