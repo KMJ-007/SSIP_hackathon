@@ -1,4 +1,12 @@
 # Progress log of the hackathon:
+```
+14th sep;
+```
+
+- Dhyaensh
+     >    "Today I created server using express and learnt some concepts and functions of express library,
+          >1. leart about middlewarefunctions
+          >2. learnt how to render HTML with Static folders to include CSS and all other types of static files using middlewarefunctions";
 
 ```
 13th sep;
