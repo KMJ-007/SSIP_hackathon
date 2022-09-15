@@ -6,6 +6,10 @@
      >"Today i edited the admin panel using figma."
      <img src="./Images/Aditi/web2.png">
      <img src="./Images/Aditi/web3.png">
+- Dhyaensh
+     >    "Today I created server using express and learnt some concepts and functions of express library,
+          >1. leart about middlewarefunctions
+          >2. learnt how to render HTML with Static folders to include CSS and all other types of static files using middlewarefunctions";
 ```
 13th sep;
 ```
