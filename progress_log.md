@@ -1,4 +1,10 @@
 # Progress log of the hackathon:
+
+```
+15th sep:
+```
+- Mohit
+ > Understood the work flow from karan and tried to give inputs.
 ```
 14th sep:
  ```
