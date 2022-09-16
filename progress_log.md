@@ -6,7 +6,7 @@
 - Aditi
      >"Today i designed the main website panel using figma."
      <img src="./Images/Aditi/web4.jpg">
--Tirth
+- Tirth
      >"Updated UI of chat panel"
      <img src="./Images/Tirth/Updated chat panel.png">
 ```
