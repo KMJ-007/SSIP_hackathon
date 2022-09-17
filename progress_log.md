@@ -3,12 +3,17 @@
 ```
 17th sep;
 ```
+-Maulik
+   >"start a work on create frontend by useing the chatengine and given ui."
+   
 - Aditi
      >"Today i designed Dashboard of chatbot using figma and ppt."
      <img src="./Images/Aditi/web5.jpg">
 ```
 15th sep;
 ```
+- Maulik
+     >"today i created the sample chatbot in react and learn about the chatengine for create chatbox."
 - Aditi
      >"Today i designed the main website panel using figma."
      <img src="./Images/Aditi/web4.jpg">
@@ -18,6 +23,8 @@
 ```
 14th sep;
 ```
+- Maulik
+    >"Learn about the react-chat bot and diffrent components."
 - Aditi
      >"Today i edited the admin panel using figma."
      <img src="./Images/Aditi/web2.png">
