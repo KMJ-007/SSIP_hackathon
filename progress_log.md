@@ -1,5 +1,11 @@
-# Progress log of the hackathon:
+cd# Progress log of the hackathon:
 
+```
+18th sep;
+```
+- Aditi
+     >"Today i edited the Dashboard of chatbot using figma and ppt."
+     <img src="./Images/Aditi/web6.jpg">
 ```
 17th sep;
 ```
