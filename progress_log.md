@@ -1,6 +1,21 @@
 cd# Progress log of the hackathon:
 
 ```
+20th sep;
+```
+- Aditi
+     >"Final all the web pages."
+     <img src="./Images/Panel/page1.jpg">
+     <img src="./Images/Panel/page2.jpg">
+     <img src="./Images/Panel/page3.jpg">
+     <img src="./Images/Panel/page4.jpg">
+```
+19th sep;
+```
+- Aditi
+     >"Today i made colour palette."
+     <img src="./Images/Aditi/palette.jpg">
+```
 18th sep;
 ```
 - Aditi
