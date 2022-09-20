@@ -9,6 +9,7 @@ cd# Progress log of the hackathon:
      <img src="./Images/Panel/page2.jpg">
      <img src="./Images/Panel/page3.jpg">
      <img src="./Images/Panel/page4.jpg">
+     <img src="./Images/Panel/page5.jpg">
 ```
 19th sep;
 ```
