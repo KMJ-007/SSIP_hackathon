@@ -10,6 +10,8 @@ cd# Progress log of the hackathon:
      <img src="./Images/Panel/page3.jpg">
      <img src="./Images/Panel/page4.jpg">
      <img src="./Images/Panel/page5.jpg">
+- Mohit
+ >worked on synopsis and pdf, almost done
 ```
 19th sep;
 ```
